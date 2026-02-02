@@ -20,8 +20,6 @@ Assess whether patients on the drug experience a greater burden or frequency of 
 Check baseline comparability between treatment groups
 Analyze age distribution to ensure that any safety differences are not due to demographic imbalance.
 
-Explore laboratory safety indicators (WBC and RBC counts)
-Identify any potential blood-related safety concerns associated with the drug.
 
 ## 🧠 Statistical Approach
 
