@@ -45,7 +45,6 @@ The number of side effects per patient was not significantly associated with tre
 
 The age distribution between the drug and placebo groups was statistically similar, indicating a fair comparison between groups.
 
-No obvious safety signal was observed from the evaluated clinical markers.
 
 ## Conclusion
 
