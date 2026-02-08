@@ -7,7 +7,7 @@ Given my interest in clinical data analysis and medication safety, I used this d
 
 This project simulates the type of analysis performed in clinical trials, pharmacovigilance, and post-marketing drug surveillance.
 
-## 🎯 Objectives of the Analysis
+## Objectives of the Analysis
 
 The main goal of this project was to assess drug safety using statistical methods. Specifically, I aimed to:
 
@@ -21,7 +21,7 @@ Check baseline comparability between treatment groups
 Analyze age distribution to ensure that any safety differences are not due to demographic imbalance.
 
 
-## 🧠 Statistical Approach
+## Statistical Approach
 
 To answer these questions, I applied statistical hypothesis testing:
 
@@ -35,7 +35,7 @@ Mann–Whitney U Test to compare age distributions between groups
 
 These methods allowed for an evidence-based evaluation of whether observed differences were statistically significant or likely due to chance.
 
-## 📊 Key Findings
+## Key Findings
 
 After conducting the analysis, the results showed:
 
